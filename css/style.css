@@ -2,8 +2,14 @@
 .containLogin{
     width:400px;
     margin: 0 auto;
-    margin-top:13%;
+    margin-top:15%;
 }
+.containLogin1{
+    width:400px;
+    margin: 0 auto;
+    margin-top:5%;
+}
+
 .containLogin #formulaireInscription{
 width:100%;
  padding: 30px;
@@ -24,7 +30,7 @@ width:100%;
     border: 1px solid #ccc;
     box-sizing: border-box;
    }
-   .containLogin #formulaireInscription input[type=submit] {
+   .containLogin #formulaireInscription input[type=button] {
     background-color: #050805;
     color: white;
     padding: 14px 20px;
@@ -33,7 +39,7 @@ width:100%;
     cursor: pointer;
     width: 100%;
    }
-   .containLogin #formulaireInscription a {
+   .containLogin #formulaireInscription a{
     text-decoration: none;
     color: rgb(177, 14, 14);
    }
