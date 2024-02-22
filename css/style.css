@@ -1,3 +1,349 @@
+body {
+    background-color: beige;
+ }
+ 
+ #menu {
+    border: 1px SOLID beige;
+    width: 1340px;
+    height: 320px;
+    box-shadow: 2PX 2PX 2PX 2PX slategray;
+ 
+ }
+ 
+ .haut {
+    border: 1px solid white;
+    width: 1340px;
+    height: 50px;
+    background-color: black;
+    box-shadow: 2PX 2PX 2PX 2PX slategray;
+ }
+ 
+ .bas {
+    border: 1px solid white;
+    width: 1340px;
+    height: 50px;
+    background-color: beige;
+    margin-top: 50px;
+    box-shadow: 2PX 2PX 2PX 2PX slategray;
+ }
+ 
+ .menu1 {
+    margin-left: 60px;
+ }
+ 
+ ul li {
+    display: inline-block;
+    margin-left: 5px;
+    color: white;
+    margin-top: -50px;
+ }
+ 
+ .menu1 ul li a {
+    text-decoration: none;
+    color: aliceblue;
+ }
+ 
+ 
+ .S1 {
+    border: 1PX solid white;
+    width: 30px;
+    height: 30px;
+    margin-left: 1000px;
+    margin-top: -40px;
+ }
+ 
+ .SS1 {
+    border: 1PX solid white;
+    width: 8px;
+    height: 16px;
+    margin-left: 1010px;
+    margin-top: -47px;
+    margin-top: -25px;
+    background-color: black;
+    color: white;
+ 
+ }
+ 
+ .S2 {
+    border: 1PX solid white;
+    width: 30px;
+    height: 30px;
+    margin-left: 1035px;
+    margin-top: -40px;
+    margin-top: -25px;
+ }
+ 
+ .SS2 {
+    border: 1PX solid white;
+    width: 8px;
+    height: 16px;
+    margin-left: 1045px;
+    margin-top: -47px;
+    margin-top: -25px;
+    background-color: black;
+    color: white;
+ 
+ }
+ 
+ .S3 {
+    border: 1PX solid white;
+    width: 150px;
+    height: 30px;
+    margin-left: 1070px;
+    margin-top: -40px;
+    margin-top: -25px;
+ }
+ 
+ .S3 p {
+    color: azure;
+    margin-left: 14px;
+    margin-top: 5px;
+    font-size: larger;
+ }
+ 
+ .SS3 {
+    border: 1PX solid white;
+    width: 40px;
+    height: 30px;
+    margin-left: 1180px;
+    margin-top: -47px;
+    margin-top: -32px;
+    background-color: brown
+ }
+ .milieuT {
+    margin-left: 300px;
+ }
+ 
+ .milieuT h1 {
+    color: black;
+    font-size: 50px;
+ 
+ }
+ 
+ .milieuT P {
+    margin-top: -15px;
+    font-size: larger;
+    color: rgb(53, 50, 50);
+ }
+ 
+ .milieuLO {
+    border: 1PX SOLID white;
+    width: 140px;
+    height: 140PX;
+    margin-top: -110px;
+    margin-left: 140px;
+    background-image: url("logosT.PNG");
+    border-radius: 20PX 20PX 20PX 20px;
+ }
+ .milieuLO img{
+    width: 140px;
+ }
+ 
+ .men1 {
+    border: 1PX SOLID black;
+    width: 150PX;
+    height: 50PX;
+    background-color: rgb(19, 19, 85);
+    margin-top: -2px;
+ }
+ 
+ .men2 {
+    border: 1PX SOLID black;
+    width: 100PX;
+    height: 50PX;
+    background-color: rgb(19, 19, 85);
+    margin-left: 153px;
+    margin-top: -52px;
+    list-style-type: none;
+    background-color: brown
+ }
+ 
+ .men2 li a {
+    text-align: center;
+    color: aliceblue;
+    margin-top: 20px;
+ }
+ 
+ .men2 a {
+    margin-top: 20px;
+    font-size: larger;
+    text-decoration: none;
+    margin-left: 20px;
+ }
+ 
+ .men3 {
+    border: 1PX SOLID white;
+    width: 120PX;
+    height: 50PX;
+    background-color: rgb(19, 19, 85);
+    margin-left: 256px;
+    margin-top: -52px;
+    list-style-type: none;
+    background-color: brown;
+ }
+ 
+ .men3 li a {
+    text-align: center;
+    color: aliceblue;
+    margin-top: 20px;
+ }
+ 
+ .men3 a {
+    margin-top: 20px;
+    font-size: larger;
+    text-decoration: none;
+    margin-left: 20px;
+ }
+ 
+ 
+ .men4 {
+    border: 1PX SOLID white;
+    width: 120PX;
+    height: 50PX;
+    background-color: rgb(19, 19, 85);
+    margin-left: 380px;
+    margin-top: -52px;
+    list-style-type: none;
+    background-color: brown
+ }
+ 
+ .men4 li a {
+    text-align: center;
+    color: aliceblue;
+    margin-top: 20px;
+ }
+ 
+ .men4 a {
+    margin-top: 20px;
+    font-size: larger;
+    text-decoration: none;
+    margin-left: 20px;
+ }
+ 
+ .men5 {
+    border: 1PX SOLID white;
+    width: 150PX;
+    height: 50PX;
+    background-color: rgb(19, 19, 85);
+    margin-left: 504px;
+    margin-top: -52px;
+    list-style-type: none;
+ }
+ 
+ .men5 li a {
+    text-align: center;
+    color: aliceblue;
+    margin-top: 20px;
+ }
+ 
+ .men5 a {
+    margin-top: 20px;
+    font-size: larger;
+    text-decoration: none;
+    margin-left: 20px;
+ }
+ 
+ .men6 {
+    border: 1PX SOLID white;
+    width: 150PX;
+    height: 50PX;
+    background-color: rgb(19, 19, 85);
+    margin-left: 658px;
+    margin-top: -52px;
+    list-style-type: none;
+ }
+ 
+ .men6 li a {
+    text-align: center;
+    color: aliceblue;
+    margin-top: 20px;
+ }
+ 
+ .men6 a {
+    margin-top: 20px;
+    font-size: larger;
+    text-decoration: none;
+    margin-left: 20px;
+ }
+ 
+ .men7 {
+    border: 1PX SOLID white;
+    width: 140PX;
+    height: 50PX;
+    background-color: rgb(19, 19, 85);
+    margin-left: 812px;
+    margin-top: -52px;
+    list-style-type: none;
+    background-color: brown
+ }
+ 
+ .men7 li a {
+    text-align: center;
+    color: aliceblue;
+    margin-top: 20px;
+ }
+ 
+ .men7 a {
+    margin-top: 20px;
+    font-size: larger;
+    text-decoration: none;
+    margin-left: 20px;
+ }
+ 
+ .men8 {
+    border: 1PX SOLID white;
+    width: 140PX;
+    height: 50PX;
+    background-color: rgb(19, 19, 85);
+    margin-left: 956px;
+    margin-top: -52px;
+    list-style-type: none;
+ }
+ 
+ .men8 li a {
+    text-align: center;
+    color: aliceblue;
+    margin-top: 20px;
+ 
+ }
+ 
+ .men8 a {
+    margin-top: 20px;
+    font-size: larger;
+    text-decoration: none;
+    margin-left: 20px;
+ }
+ 
+ .men9 {
+    border: 1PX SOLID white;
+    width: 240PX;
+    height: 50PX;
+    background-color: rgb(19, 19, 85);
+    margin-left: 1100px;
+    margin-top: -52px;
+ }
+ 
+ .partie1 {
+    border: 5px solid brown;
+    width: 1340px;
+    height: 600px;
+    margin-top: -5PX;
+    background-image: url("PHOTOSCAPE.jpg");
+    box-shadow: 2PX 2PX 2PX 2PX slategray;
+ }
+ 
+ .bord {
+    border: white solid 1px;
+    width: 500Px;
+    height: 250px;
+    margin-top: 260PX;
+    margin-left: 100px;
+    backface-visibility: visible;
+    border-left: blue;
+    background-color: #ece8e8;
+    border-radius: 0PX 150px 0px 0px;
+    box-shadow: 2PX 2PX 2PX 2PX slategray;
+ }
 /*STYLE PAGE LOGIN*/
 .containLogin{
     width:400px;
