@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     background-color: beige;
  }
@@ -354,6 +355,47 @@ body {
  .foot h4 {
     margin-top: 40px;
  }
+=======
+<<<<<<< HEAD
+body {
+    background-color: rgb(249, 252, 252);
+    padding: 0%;
+    margin-top: 0%;
+
+}
+
+fieldset {
+    background-color: rgb(181, 181, 230);
+    margin-top: 70px;
+    width: 27%;
+    border-radius: 5px 5px 5px 5px;
+}
+ul li {margin-left: 20px; color: aqua;}
+#submit{
+    margin: 20px 35px;
+    color: brown;
+    background-color: white;
+    width: 60%;
+    font-size: 80px;
+    border-radius: 20px;
+    border: 1px solid white;
+}
+#submit:hover{
+    color: white;
+    background-color: brown;
+}
+input{
+    font-size: 16px;
+    border: none;
+    outline: non;
+    background: none;
+    border-bottom: 1px solid white;
+    color: white;
+    width: 90%;
+}
+
+=======
+>>>>>>> 1e07d5f257e9d66ad9b4a9b0642ce54e284c1319
 /*STYLE PAGE LOGIN*/
 .containLogin{
     width:400px;
@@ -403,5 +445,9 @@ width:100%;
     text-decoration:underline;
     color: rgb(177, 14, 14);
    }
+<<<<<<< HEAD
 
   
+=======
+>>>>>>> 30c84534cebb87b0b86b03ba4d1f9eafba175d2c
+>>>>>>> 1e07d5f257e9d66ad9b4a9b0642ce54e284c1319
